@@ -1,0 +1,54 @@
+hacerSandwich() {
+reunirIngredientes()
+reunirUtenciliosdeCocina()
+tomarRebanadasdePan()
+untarAderezoPan()
+olocarJamónSobreUnPan()
+colocarLosVegetales()
+agregarPicante()
+colocarSegundaRebanadadePan()
+envolverElsandwich()
+}
+
+reunirIngredientes() {
+    Pan ( Rebanado, Barra, Blanco, Integral, Trigo, Centeno )
+    aderezo ( Mayonesa, crema, mostaza ),
+    jamón ( Pierna, pavo ),
+    Queso ( Chihuahua, manchego, gouda )
+    vegetales ( lechuga, tomate, cebolla, pepino, pepinillos )
+    Picante ( Salsa, chile de diversos tipos)
+}
+
+reunirUtenciliosdeCocina(){
+    Cuchillos (Serrado, cebollero)
+    Tabla de picar (madera, plástico)
+    Platos
+    Servilletas
+}
+
+tomarRebanadasdePan(){
+    Abrir paquete de pan rebanado o rebanar barra de pan.  ¿Quitar orillas?
+}
+
+untarAderezoPan(){
+   ¿Ambas con mayonesa? ¿Una con mayonesa otra con mostaza?
+}
+
+colocarJamónSobreUnPan(){
+    ¿Una rebanada? ¿Dos?
+}
+colocarLosVegetales(){
+    Agregar x hojas de lechuga sobre el jamón
+         “  x rodajas de tomate sobre la lechuga
+         “ x rodajas de cebolla sobre el tomate
+         “ x rodajas de pepino sobre la cebolla
+}
+agregarPicante(){
+    ¿Qué cantidad? ¿Qué tipo?
+}
+colocarSegundaRebanadadePan(){
+    ¿Cortar por mitades? ¿Cuartos?
+}
+envolvrElsandwich(){
+    Envolver el sandwich
+}

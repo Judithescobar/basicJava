@@ -1,0 +1,22 @@
+*Login
+Acceder a la página de "https://evening-bastion-49392.herokuapp.com/"
+Dar clic en log in
+Agregar Username: frank
+Agregar Password: sinatra
+Dar clic en Log in
+
+*Validar existencia de elementos
+Validar que existe más de 1 canción
+Validar que existe "Create new song"
+
+
+*Agregar canción
+Dar clic en "Create new song"
+Esperar a que aparezcan elementos
+Agregar Title: "Las mañanitas"
+Agregar Length: "2"
+Agregar Date: 06/06/2020
+Agregar Lyrics: "Estas son las mañanitas..."
+Dar clic en "Save Song"
+
+

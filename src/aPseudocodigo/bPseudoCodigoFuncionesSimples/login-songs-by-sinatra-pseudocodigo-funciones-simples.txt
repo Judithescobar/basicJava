@@ -1,0 +1,31 @@
+hacerLogin() {
+navegarURL()
+validarHomePage()
+loginCorrecto()
+validarLogin()
+}
+
+
+navegarURL() {
+    Abrir el navegador
+    Ir  a la página de Frank Sinatra: "https://evening-bastion-49392.herokuapp.com/"
+
+}
+
+validarHomePage() {
+      Esperar que los elementos de la página estén visibles
+
+
+}
+
+loginCorrecto(){
+        Ingresar la información de Username: frank
+        Ingresar la información de password: sinatra
+        Hacer clic en el link de login
+
+
+}
+validarLogin(){
+    El sistema ingresa a la página de Canciones
+
+}

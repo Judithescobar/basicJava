@@ -1,0 +1,6 @@
+realizarActividad(respuesta){
+    if (respuesta= "agregar canción")
+    crearCancion()
+    else
+    irAHome()
+}

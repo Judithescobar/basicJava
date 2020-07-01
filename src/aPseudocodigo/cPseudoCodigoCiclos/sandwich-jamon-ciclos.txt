@@ -1,0 +1,9 @@
+
+Hacersandwiches(){
+numero_sandwich=0
+    While (numero_sandwich es menor a 5) {
+    hacerSandwich()
+    hacersandwichbolonia()
+    sumar 1 a numero_sandwich
+}
+

@@ -1,0 +1,16 @@
+crearCancion(){
+(jalar función)hacerLogin()
+agregarCancion()
+
+}
+agregarCancion(){
+    Dar clic en "Agregar canción"
+    Esperar a que aparezcan los elementos
+    Agregar Title: "Las mañanitas"
+    Agregar Length: "2"
+    Agregar Date: 06/06/2020
+    Agregar Lyrics: "Estas son las mañanitas..."
+    Dar clic en "Save Song"
+}
+
+

@@ -1,0 +1,19 @@
+crearCancion()
+    //Aquí puedo jalar la función de otro lado?
+    (jalar función)hacerLogin()
+    Inicializar (valor_title, valor_Length, valor_Date, valor_Lyrics)
+    agregarCancion(valor_title, valor_Length, valor_Date, valor_Lyrics)
+
+agregarCancion(valor_title, valor_Length, valor_Date, valor_Lyrics){
+}
+    Dar clic en "Agregar canción"
+    Esperar a que aparezcan los elementos
+    Agregar Title=valor_title
+    Agregar Length=valor_Length
+    Agregar Date=valor_date
+    Agregar Lyrics=valor_lyrics
+    Dar clic en "Save Song"
+
+    //Se agrega regresar info?
+}
+
