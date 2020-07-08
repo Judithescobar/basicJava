@@ -2,7 +2,8 @@ package gNumericTypes;
 
 import libs.Input;
 
-public class EjemploFloat {
+public class
+EjemploFloat {
 
 	public static void main(String[] args) {
 		float f = Input.get_float();
